@@ -1,0 +1,473 @@
+--------------------------------------------------
+						Banco do Brasil
+
+----------------------------------------
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+500,00
+
+Saldo
+1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+2000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+1000,00
+
+Saldo
+2000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+250,00
+
+Saldo
+1750,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+2000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+2000,00
+
+Saldo
+1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+2000,00
+
+Saldo
+-1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+1000,00
+
+Saldo
+0,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+3000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+1000,00
+
+Saldo
+2000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+1000,00
+
+Saldo
+1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+1000,00
+
+Saldo
+0,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+3000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+3000,00
+
+Saldo
+6000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+3000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Anne Caroline
+
+Valor
+200,00
+
+Saldo
+2800,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Anne Caroline
+
+Valor
+800,00
+
+Saldo
+2000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+500,00
+
+Saldo
+1500,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+500,00
+
+Saldo
+1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+2000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+2000,00
+
+Saldo
+1000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+2000,00
+
+Saldo
+3000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+4000,00
+
+Saldo
+6000,00
+
+_Data
+16/12/2022 00:00:00
+
+Descricao
+Transferência Recebida de Lessandra
+
+Valor
+50,00
+
+Saldo
+3450,01
+
+_Data
+16/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+450,00
+
+Saldo
+3000,01
+
+_Data
+16/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+450,00
+
+Saldo
+3450,01
+
+_Data
+16/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+450,00
+
+Saldo
+3000,01
+
+_Data
+20/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+561,19
+
+Saldo
+0,00
+
+_Data
+20/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+8000,00
+
+Saldo
+8000,00
+
+_Data
+22/12/2022 00:00:00
+
+Descricao
+Transferência Recebida de Solange
+
+Valor
+1500,00
+
+Saldo
+9500,00
+
+_Data
+22/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Fernando
+
+Valor
+500,00
+
+Saldo
+9000,00
+
+_Data
+22/12/2022 00:00:00
+
+Descricao
+Transferência Recebida de Luiz Fernando
+
+Valor
+500,00
+
+Saldo
+10000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Compra Efetuada na Loja_B
+
+Valor
+1000,00
+
+Saldo
+2000,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Compra Efetuada na Loja_A
+
+Valor
+2599,99
+
+Saldo
+3400,01
+
+_Data
+17/12/2022 00:00:00
+
+Descricao
+Transferência Recebida de Anne Caroline
+
+Valor
+438,80
+
+Saldo
+-561,19
+
+_Data
+22/12/2022 00:00:00
+
+Descricao
+Saque
+
+Valor
+500,00
+
+Saldo
+9000,00
+
+_Data
+22/12/2022 00:00:00
+
+Descricao
+Depósito
+
+Valor
+500,00
+
+Saldo
+9500,00
+
+_Data
+15/12/2022 00:00:00
+
+Descricao
+Transferência Enviada para Luiz Alberto
+
+Valor
+750,00
+
+Saldo
+1000,00
+
+_Data
+16/12/2022 00:00:00
+
+Descricao
+Compra Efetuada na Loja_A
+
+Valor
+4000,00
+
+Saldo
+-999,99
+
