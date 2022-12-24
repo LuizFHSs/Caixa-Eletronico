@@ -1104,11 +1104,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\lf200\\source\\repos\\Cx_Eletronic\\Cx_Eletronic.csproj",
+      "projectUniqueName": "C:\\Users\\lf200\\Documents\\Projetos\\GitHub\\Caixa Eletrônico\\Caixa-Eletronico\\Cx_Eletronic\\Cx_Eletronic.csproj",
       "projectName": "Cx_Eletronic",
-      "projectPath": "C:\\Users\\lf200\\source\\repos\\Cx_Eletronic\\Cx_Eletronic.csproj",
+      "projectPath": "C:\\Users\\lf200\\Documents\\Projetos\\GitHub\\Caixa Eletrônico\\Caixa-Eletronico\\Cx_Eletronic\\Cx_Eletronic.csproj",
       "packagesPath": "C:\\Users\\lf200\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\lf200\\source\\repos\\Cx_Eletronic\\obj\\",
+      "outputPath": "C:\\Users\\lf200\\Documents\\Projetos\\GitHub\\Caixa Eletrônico\\Caixa-Eletronico\\Cx_Eletronic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

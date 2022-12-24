@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nX7mD/D0EYIUlU10Bv2V2C9UoB+w5omU2sgdCN5TeEyBhfcsw9bYyV1dtvlN/WN5DJuq659R5Lc8z3hMdkd2Ug==",
+  "dgSpecHash": "iV8nOiX4QA7kjh106Le2p1EUUBAi7H/nCHPSMZfKm1gN1CN2sSZV5EokKWtwo7R8ZKWLrki6DVI2FM17pZz6Jg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lf200\\source\\repos\\Cx_Eletronic\\Cx_Eletronic.csproj",
+  "projectFilePath": "C:\\Users\\lf200\\Documents\\Projetos\\GitHub\\Caixa Eletrônico\\Caixa-Eletronico\\Cx_Eletronic\\Cx_Eletronic.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lf200\\.nuget\\packages\\microsoft.entityframeworkcore\\7.0.1\\microsoft.entityframeworkcore.7.0.1.nupkg.sha512",
     "C:\\Users\\lf200\\.nuget\\packages\\microsoft.entityframeworkcore.abstractions\\7.0.1\\microsoft.entityframeworkcore.abstractions.7.0.1.nupkg.sha512",
